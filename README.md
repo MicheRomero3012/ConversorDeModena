@@ -29,5 +29,9 @@ Presiona el botón "Convertir" para realizar la conversión.
 Los resultados de la conversión se mostrarán en pantalla, y se guardarán en el archivo JSON con fecha y hora.
 
 <h2>Captura de ejecución</h2>
-![Captura de pantalla 2024-10-31 090029](https://github.com/user-attachments/assets/0178843f-bff5-42fb-a3f6-58648cd157b0)
+
+![Captura de pantalla 2024-10-31 090029](https://github.com/user-attachments/assets/0178843f-bff5-42fb-a3f6-58648cd157b0) 
+
+![Captura de pantalla 2024-10-31 090145](https://github.com/user-attachments/assets/f313b940-f5a2-41c8-a03f-7aed329eae42)
+
 
