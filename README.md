@@ -28,8 +28,6 @@ Ingresa el monto en MXN y selecciona la moneda de destino.
 Presiona el botón "Convertir" para realizar la conversión.
 Los resultados de la conversión se mostrarán en pantalla, y se guardarán en el archivo JSON con fecha y hora.
 
-<h2>Capturas de ejecución</h2>
+<h2>Captura de ejecución</h2>
 ![Captura de pantalla 2024-10-31 090029](https://github.com/user-attachments/assets/0178843f-bff5-42fb-a3f6-58648cd157b0)
-
-![Captura de pantalla 2024-10-31 090145](https://github.com/user-attachments/assets/30fc72af-7917-4fef-ac88-4f3b4811322a)
 
