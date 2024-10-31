@@ -22,3 +22,8 @@ Main.java: Clase principal que inicia la GUI y contiene la lógica de conversió
 Client.java: Clase que realiza las solicitudes HTTP y obtiene los datos de la API.
 Calculo.java: Lógica de cálculo y obtención de datos para la conversión.
 Escritura.java: Gestiona el guardado de cada conversión en un archivo JSON.
+
+<h2>🎉 Uso de la Aplicación</h2>
+Ingresa el monto en MXN y selecciona la moneda de destino.
+Presiona el botón "Convertir" para realizar la conversión.
+Los resultados de la conversión se mostrarán en pantalla, y se guardarán en el archivo JSON con fecha y hora.
